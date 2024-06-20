@@ -1,5 +1,11 @@
+backstage-plugin-orchestrator-1.1.0-rc.0-86518.tgz
+integrity: sha512-SgE/ARkqovEu9EHy9wWMJFKhkuaGWi2jjrDN3Y2grc+IhqxX5kSlcXJahJHDOk8QGZWKx2211m8ebDSRsxWZeQ==
+
+backstage-plugin-orchestrator-backend-dynamic-1.1.0-rc.0-86518.tgz
+integrity: sha512-1+idNkMLKXh6ooXKPemOukjxIwLhMogsIIqJ2HuKZIL/AZ2iGL4qUuxUPF6TdqTVuWe7X40CJHa6Sk1j4Rg7yQ==
+
 integrities.txt
-integrity: sha512-AVmewRz+0P49NefoRqL4tIPRNGxZjY4X/FhbYgNyRwfoaP/EWUDDsHEE8UE9P44WbDJ1UaDpl2ty4fKegEGVug==
+integrity: sha512-HN269anGNzYrpMdOpUCQPPwSJkLy/TT13nduxYhwXAJXGRsOCB174DpW6V34TIy2dAzJBxGJzr1uPvvpKWnVcw==
 
 plugin-notifications-backend-dynamic-0.2.0-redhat.10001.tgz
 integrity: sha512-MiST7VKvqombWKPdmPpdO1nLc9BCsEJTIwg6wUTbT/uu3YOiQg/0U8JBjY3wihJp/iEb+pwAyDysbq8Uqz11Hg==
