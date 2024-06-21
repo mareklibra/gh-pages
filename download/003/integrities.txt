@@ -1,0 +1,18 @@
+integrities.txt
+integrity: sha512-AVmewRz+0P49NefoRqL4tIPRNGxZjY4X/FhbYgNyRwfoaP/EWUDDsHEE8UE9P44WbDJ1UaDpl2ty4fKegEGVug==
+
+plugin-notifications-backend-dynamic-0.2.0-redhat.10002.tgz
+integrity: sha512-MUG+uSBfbv9tIsh+GnvhWX+/HfJbZg3yWd5RxIXzzWlChe9t/uO7UfU8CFghtSrWm8F7YyctwKEQ2Uf4BArlyA==
+
+plugin-notifications-backend-module-email-dynamic-0.0.0-redhat.10002.tgz
+integrity: sha512-vXKvpldtmVfHjxo2H9dCeaOJ7wG+S6W6Q9QZ3RsoHpfEZTUxxXilj9hKGYMb8Uc4T+IwQVLKLAT/Jx+8v3HQzg==
+
+plugin-notifications-dynamic-0.2.0-redhat.10002.tgz
+integrity: sha512-ob2hBJICeo/3kFJ6cYFJjJjarCWYrPafeBw6h81f1rAVsx+RlXB5lg2zOQb/GV6fmGWuJc0UNiRS/a3vn2B7Vw==
+
+plugin-signals-backend-dynamic-0.1.3-redhat.10002.tgz
+integrity: sha512-b1jVczjMJV731rTFW9Je9Djo1DLaHJCprEsI/VxZkCDwb8e0swMeZZVZAyRxHdlp4e88GvDaIwOvVvr7HQTdAg==
+
+plugin-signals-dynamic-0.0.5-redhat.10002.tgz
+integrity: sha512-tLXVXXjt0BBPEYtCQ8ljp95EplpqDNxTo/ONCOrtIA2AgjCQ64fFrExbmDm/S9OUkSITIfOz3slXmEqWTF6oXQ==
+
